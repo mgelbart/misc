@@ -41,3 +41,7 @@ and then execute `git config --global core.excludesfile '~/.gitignore_global'`
 git config --global core.editor atom
 ```
 (or `emacs` or whatever) 
+
+#### set up ssh key(s)
+
+Following instructions at https://help.github.com/articles/generating-an-ssh-key/
