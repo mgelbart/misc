@@ -8,7 +8,7 @@
  - [MacTex](https://www.tug.org/mactex/)
  - [Atom](https://atom.io/)
    - Atom --> Install Shell Commands
-   - [LaTeX](https://atom.io/packages/latex): `apm install latex`
+   - [LaTeX](https://atom.io/packages/latex): `apm install latex` and `apm install language-tex`
    - [Juno](https://github.com/JunoLab/uber-juno/blob/master/setup.md) for Julia: `apm install uber-juno`
    - [Markdown](https://atom.io/packages/markdown-preview-plus): `apm install markdown-preview-plus`
  - [Spotify](https://www.spotify.com/ca-en/download/other/)
