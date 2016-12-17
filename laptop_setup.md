@@ -2,6 +2,7 @@
  - developer tools: `xcode-select --install`
  - [Chrome](https://www.google.ca/chrome/browser/desktop/index.html)
  - [Julia](http://julialang.org/downloads/)
+ - [f.lux](https://justgetflux.com/)
  - [1Password](https://agilebits.com/downloads)
  - [Anaconda](https://www.continuum.io/downloads)
  - [Slack](https://slack.com/downloads/osx)
