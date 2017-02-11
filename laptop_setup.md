@@ -46,3 +46,5 @@ git config --global core.editor atom
 #### set up ssh key(s)
 
 Following instructions at https://help.github.com/articles/generating-an-ssh-key/
+
+And then `ssh-add -K ~/.ssh/id_rsa` to store the passphrase in Keychain.
