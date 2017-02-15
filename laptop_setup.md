@@ -54,5 +54,5 @@ Also
 
 ```
 git config --global user.name "Mike Gelbart"
-git config --global user.name mgelbart@cs.ubc.ca
+git config --global user.email mgelbart@cs.ubc.ca
 ```
