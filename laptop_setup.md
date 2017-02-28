@@ -56,3 +56,12 @@ Also
 git config --global user.name "Mike Gelbart"
 git config --global user.email mgelbart@cs.ubc.ca
 ```
+
+Then add the following to `~/.ssh/config`:
+
+```
+Host *
+  UseKeychain yes
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/id_rsa
+```
