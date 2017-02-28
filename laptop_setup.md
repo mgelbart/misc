@@ -33,6 +33,7 @@ In the file `~/.gitignore_global` put
 .Trashes
 .RHistory
 __pycache__
+~$*
 ```
 
 and then execute `git config --global core.excludesfile '~/.gitignore_global'`
