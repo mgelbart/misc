@@ -37,18 +37,12 @@ __pycache__
 
 and then execute `git config --global core.excludesfile '~/.gitignore_global'`
 
-#### Default editor
+#### Defaults
 
 ```
-git config --global core.editor atom
+git config --global core.editor emacs
 ```
-(or `emacs` or whatever) 
-
-#### set up ssh key(s)
-
-Following instructions at https://help.github.com/articles/generating-an-ssh-key/
-
-And then `ssh-add -K ~/.ssh/id_rsa` to store the passphrase in Keychain.
+(or `atom` or whatever) 
 
 Also
 
@@ -56,6 +50,13 @@ Also
 git config --global user.name "Mike Gelbart"
 git config --global user.email mgelbart@cs.ubc.ca
 ```
+
+
+#### set up ssh key(s)
+
+Following instructions at https://help.github.com/articles/generating-an-ssh-key/
+
+And then `ssh-add -K ~/.ssh/id_rsa` to store the passphrase in Keychain.
 
 Then add the following to `~/.ssh/config`:
 
@@ -65,3 +66,5 @@ Host *
   AddKeysToAgent yes
   IdentityFile ~/.ssh/id_rsa
 ```
+
+so that you don't need to do this everytime you login (see [here](http://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically)).
