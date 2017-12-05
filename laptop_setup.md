@@ -57,6 +57,7 @@ git config --global user.email mgelbart@cs.ubc.ca
 In `~/.bash_profile` add the following aliases:
 
 ```
+alias l="git status"
 alias jp="jupyter notebook"
 alias jn="jupyter notebook"
 ```
