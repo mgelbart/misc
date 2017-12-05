@@ -52,6 +52,14 @@ git config --global user.name "Mike Gelbart"
 git config --global user.email mgelbart@cs.ubc.ca
 ```
 
+#### Bashrc
+
+In `~/.bash_profile` add the following aliases:
+
+```
+alias jp="jupyter notebook"
+alias jn="jupyter notebook"
+```
 
 #### set up ssh key(s)
 
