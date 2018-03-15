@@ -59,6 +59,7 @@ In `~/.bash_profile` add the following aliases:
 ```
 alias l="git status"
 alias jp="jupyter notebook"
+alias unlock="chflags -R nouchg"
 
 # Git branch in prompt.
 parse_git_branch() {
