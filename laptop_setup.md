@@ -29,11 +29,14 @@ In the file `~/.gitignore_global` put
 ```
 .DS_Store
 .ipynb_checkpoints
-*~
 .Trashes
 .RHistory
 __pycache__
 ~$*
+~*
+*~
+.~
+*.egg-info
 ```
 
 and then execute `git config --global core.excludesfile '~/.gitignore_global'`
