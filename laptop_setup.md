@@ -87,3 +87,9 @@ Host *
 ```
 
 so that you don't need to do this everytime you login (see [here](http://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically)).
+
+## macOS preferences
+
+- System Preferences --> General
+  - Show scroll bars: Always
+  - Click in the scroll bar to: Jump to the spot that's clicked
