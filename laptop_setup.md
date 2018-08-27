@@ -37,6 +37,7 @@ __pycache__
 *~
 .~
 *.egg-info
+.nbgrader.log
 ```
 
 and then execute `git config --global core.excludesfile '~/.gitignore_global'`
@@ -62,6 +63,7 @@ In `~/.bash_profile` add the following aliases:
 ```
 alias l="git status"
 alias jp="jupyter notebook"
+alias jl="jupyter lab"
 alias unlock="chflags -R nouchg"
 alias listf="du -hs * | gsort -h"
 
