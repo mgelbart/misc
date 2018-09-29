@@ -93,6 +93,21 @@ so that you don't need to do this everytime you login (see [here](http://apple.s
 
 ## macOS preferences
 
-- System Preferences --> General
+- Scroll bars
+  - System Preferences --> General
   - Show scroll bars: Always
   - Click in the scroll bar to: Jump to the spot that's clicked
+- Enable [three finger drag](https://support.apple.com/en-ca/HT204609)
+- Set clock to show date
+- Set battery to show percentage
+- Turn off autocorrect
+  - System preferences --> Keyboard
+  - Text tab
+  - Uncheck the 3 boxes
+- Mail app keyboard shortcut for archive
+  - System preferences --> Keyboard
+  - Shortcuts, App shortcuts
+  - "+"
+  - Mail
+  - Menu Title: Archive
+  - Shortcut: Cmd+E
