@@ -114,3 +114,5 @@ so that you don't need to do this everytime you login (see [here](http://apple.s
 - Turn of new mail sound
   - Mail --> Preferences --> General
   - New message sound: None
+- Show all file extensions
+  - Finder --> Preferences --> Advanced --> Show all filename extensions
