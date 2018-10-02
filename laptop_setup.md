@@ -116,3 +116,4 @@ so that you don't need to do this everytime you login (see [here](http://apple.s
   - New message sound: None
 - Show all file extensions
   - Finder --> Preferences --> Advanced --> Show all filename extensions
+- Chrome --> Chrome menu --> check "Warn before quitting" (to guard against pressing command-Q instead of command-W)
