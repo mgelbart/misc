@@ -74,6 +74,14 @@ parse_git_branch() {
 export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 ```
 
+#### matplotlibrc
+
+In `~/.matplotlib/matplotlibrc` add the following:
+
+```
+font.size : 16
+```
+
 #### set up ssh key(s)
 
 Following instructions at https://help.github.com/articles/generating-an-ssh-key/
