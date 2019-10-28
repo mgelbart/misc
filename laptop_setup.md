@@ -38,6 +38,7 @@ __pycache__
 .~
 *.egg-info
 .nbgrader.log
+altair-data-*.json
 ```
 
 and then execute `git config --global core.excludesfile '~/.gitignore_global'`
