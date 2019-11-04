@@ -120,7 +120,7 @@ so that you don't need to do this everytime you login (see [here](http://apple.s
   - Mail
   - Menu Title: Archive
   - Shortcut: Cmd+E
-- Turn of new mail sound
+- Turn off new mail sound
   - Mail --> Preferences --> General
   - New message sound: None
 - Show all file extensions
