@@ -59,7 +59,7 @@ git config --global user.email mgelbart@cs.ubc.ca
 
 #### Bashrc
 
-In `~/.bash_profile` add the following aliases:
+In `~/.bash_profile` or `~/.zshrc` add the following aliases:
 
 ```
 alias l="git status"
