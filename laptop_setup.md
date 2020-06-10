@@ -40,7 +40,7 @@ and then execute `git config --global core.excludesfile '~/.gitignore_global'`
 ```
 git config --global core.editor nano
 ```
-(or `atom`, `emacs`, or whatever) 
+(or `code`, `emacs`, or whatever) 
 
 Also
 
