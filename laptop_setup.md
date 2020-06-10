@@ -1,10 +1,10 @@
 ## Installations
- - [1Password](https://agilebits.com/downloads)
+ - [1Password](https://agilebits.com/downloads) (available from App Store)
  - developer tools: `xcode-select --install`
  - [Homebrew](http://brew.sh/)
- - [Chrome](https://www.google.ca/chrome/browser/desktop/index.html)
- - [Anaconda](https://www.continuum.io/downloads)
- - [Slack](https://slack.com/downloads/osx)
+ - [Chrome](https://www.google.ca/chrome/browser/desktop/index.html) (available from App Store)
+ - [Anaconda](https://www.continuum.io/downloads) or Miniconda
+ - [Slack](https://slack.com/downloads/osx) (available from App Store)
  - [MacTex](https://www.tug.org/mactex/)
  - [Spotify](https://www.spotify.com/ca-en/download/other/)
  - [ImageMagick](https://www.imagemagick.org/script/binary-releases.php#macosx): `brew install imagemagick`
