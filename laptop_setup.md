@@ -120,4 +120,7 @@ so that you don't need to do this everytime you login (see [here](http://apple.s
 - Chrome --> Chrome menu --> check "Warn before quitting" (to guard against pressing command-Q instead of command-W)
 - Make screenshots better
   - In terminal: `defaults write com.apple.screencapture location ~/Downloads/` so they go to Downloads instead of Desktop
-  - Follow [these instructions](https://macmost.com/skip-mac-mojave-screenshot-delay.html) to remove the delay.
+  - Follow [these instructions](https://macmost.com/skip-mac-mojave-screenshot-delay.html) to remove the delay:
+    - Command+Shift+5
+    - Click on the Options button that appears in the controls
+    - Uncheck "Show Floating Thumbnail"
