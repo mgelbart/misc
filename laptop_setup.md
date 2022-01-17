@@ -5,13 +5,15 @@
  - [Chrome](https://www.google.ca/chrome/browser/desktop/index.html) (available from App Store)
  - [Anaconda](https://www.continuum.io/downloads) or Miniconda
  - [Slack](https://slack.com/downloads/osx) (available from App Store, which I think works better with notification settings)
- - [MacTex](https://www.tug.org/mactex/)
  - [Spotify](https://www.spotify.com/ca-en/download/other/)
+ - [Dropbox](https://www.dropbox.com/downloading)
+
+Optional, for me:
+
+ - [MacTex](https://www.tug.org/mactex/)
  - [ImageMagick](https://www.imagemagick.org/script/binary-releases.php#macosx): `brew install imagemagick`
- - [Skype](https://www.skype.com/en/download-skype/skype-for-computer/)
  - [R](https://cran.rstudio.com/bin/macosx/)
  - [RStudio](https://www.rstudio.com/products/rstudio/download/)
- - [Dropbox](https://www.dropbox.com/downloading)
 
 ## Extra git stuff
 
