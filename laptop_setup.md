@@ -87,9 +87,9 @@ Then add the following to `~/.ssh/config`:
 
 ```
 Host *
-  UseKeychain yes
   AddKeysToAgent yes
-  IdentityFile ~/.ssh/id_rsa
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_ed25519
 ```
 
 so that you don't need to do this everytime you login (see [here](http://apple.stackexchange.com/questions/48502/how-can-i-permanently-add-my-ssh-private-key-to-keychain-so-it-is-automatically)).
