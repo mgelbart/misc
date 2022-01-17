@@ -4,7 +4,7 @@
  - [Homebrew](http://brew.sh/)
  - [Chrome](https://www.google.ca/chrome/browser/desktop/index.html) (available from App Store)
  - [Anaconda](https://www.continuum.io/downloads) or Miniconda
- - [Slack](https://slack.com/downloads/osx) (available from App Store)
+ - [Slack](https://slack.com/downloads/osx) (available from App Store, which I think works better with notification settings)
  - [MacTex](https://www.tug.org/mactex/)
  - [Spotify](https://www.spotify.com/ca-en/download/other/)
  - [ImageMagick](https://www.imagemagick.org/script/binary-releases.php#macosx): `brew install imagemagick`
