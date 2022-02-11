@@ -7,6 +7,11 @@
  - [Slack](https://slack.com/downloads/osx) (available from App Store, which I think works better with notification settings)
  - [Spotify](https://www.spotify.com/ca-en/download/other/)
  - [Dropbox](https://www.dropbox.com/downloading)
+ - Jupyter
+   - base: `conda install -c conda-forge jupyterlab`
+   - base: `conda install -n base nb_conda_kernels`
+   - env: `conda install ipykernel`
+
 
 Optional, for me:
 
