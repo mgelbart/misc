@@ -11,6 +11,7 @@
    - base: `conda install -c conda-forge jupyterlab`
    - base: `conda install -n base nb_conda_kernels`
    - env: `conda install ipykernel`
+   - Then, launch Jupyter from base
 
 
 Optional, for me:
